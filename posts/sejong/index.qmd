@@ -1,0 +1,16 @@
+---
+title: "TEST_POST"
+author: "Harlow Malloc"
+date: "2024-01-11"
+categories: [news, code, analysis]
+image: "VLBI_M87.png"
+---
+
+This is a post for EHT image processing.
+
+
+
+```{r}
+# `Using Language` Julia, Python, R (named JUPYTER)
+```
+---
