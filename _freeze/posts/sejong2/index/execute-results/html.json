@@ -1,0 +1,15 @@
+{
+  "hash": "f2ec84d77a71719fb2569de38af321ff",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"VLBI Image Processing\"\nauthor: \"Harlow Malloc\"\ndate: \"2024-01-11\"\ncategories: [news, code, analysis]\nimage: \"VLBI_M87.png\"\n---\n\n\nThis is a post for EHT image processing.\n\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\n# Very Long Baseline Interferometer\n```\n:::\n\n---",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
